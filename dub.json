@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"ryuukk"
+	],
+	"copyright": "Copyright © 2023, ryuukk",
+	"description": "A minimal D application.",
+	"license": "cc0",
+	"name": "fuclk"
+}
